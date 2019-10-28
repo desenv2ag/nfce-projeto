@@ -10,6 +10,11 @@ import os
 import datetime
 
 
+####################
+# Autor: Jonathan de Freitas Souza
+# Funcao: Download de arquivos de NFC-E na AWS S3.
+####################
+
 options = Options()
 options.add_argument("--incognito")
 
