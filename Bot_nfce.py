@@ -12,7 +12,7 @@ import datetime
 
 ####################
 # Autor: Jonathan de Freitas Souza
-# Funcao: Download de arquivos de NFC-E na AWS S3.
+# Funcao: Download de arquivos de NFC-E
 ####################
 
 options = Options()
