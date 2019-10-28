@@ -596,5 +596,5 @@ else:
     driver.close()
     reniciandobelserv() 
 driver.close()
-exit()
-sys.exit()
+time.sleep(2)
+os.system("taskkill /F /IM chromedriver.exe")
